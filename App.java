@@ -6,5 +6,7 @@ public class App {
         int x=10;
         int b=20;
         System.out.println(x+b+" this login/feature");
+        System.out.println("Payment api");
+        System.out.println("Payment mode: UPI, Card,Cash, E-Banking");
     }
 }
